@@ -7,7 +7,7 @@ Made to understand that heap build process can be done in a linar time with a si
 - C++ Compiler
 
 ## How to use
-- Mount Heap directorie using cd
+- Mount MinHeap directory using cd
 - Type make command
 - type ./build/main 
 
