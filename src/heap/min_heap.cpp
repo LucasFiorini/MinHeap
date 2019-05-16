@@ -31,7 +31,7 @@ MinHeap::MinHeap(int cap, bool rand) {
         heapfy(i);
     }
 	finish = clock();
-   	cout << "Time enlapsed: "<<(start - finish) / (double)CLOCKS_PER_SEC <<"s"<< endl;
+   	cout << "Time enlapsed: "<<(finish - start) / (double)CLOCKS_PER_SEC <<"s"<< endl;
 
 
 }
